@@ -26,7 +26,7 @@ Proyecto académico desarrollado en equipo para la UTN FRGP. Aplicación web en 
 ---
 
 ##  Capturas de pantalla
-![labo4]("https://github.com/user-attachments/assets/39fe5861-a0fd-4518-81fd-5332b24f504e")
+![labo4](https://github.com/user-attachments/assets/39fe5861-a0fd-4518-81fd-5332b24f504e)
 
 
 ---
