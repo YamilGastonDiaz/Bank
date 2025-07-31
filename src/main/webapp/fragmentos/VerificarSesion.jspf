@@ -1,0 +1,13 @@
+<%@ page import="entidad.Usuario" %>
+<%
+Usuario usuarioLogueado = (Usuario) session.getAttribute("usuario");
+byte tipoUsuario = 0;
+
+if (usuarioLogueado == null) {
+	response.sendRedirect("InicioSesion.jsp");
+	return;
+}
+else{
+	tipoUsuario = usuarioLogueado.getTipoUser().getIdTipoUser();
+}
+%>
